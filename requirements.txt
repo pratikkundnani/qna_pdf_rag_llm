@@ -1,0 +1,8 @@
+langchain_openai 
+langchain
+langchain_core
+python-dotenv
+langchain_community
+pypdf
+chromadb
+faiss-cpu
